@@ -38,4 +38,8 @@ Run server (defaults to localhost:3000):
 npm start
 ```
 
-Follow the coach instructions and good luck!
+Follow the coach instructions
+
+
+### 파일 수정 테스트 by isjeong 2020-02-11
+modify README.md
